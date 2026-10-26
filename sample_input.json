@@ -1,0 +1,12 @@
+{
+  "airline": "Indigo",
+  "source_city": "Delhi",
+  "destination_city": "Bengaluru",
+  "departure_time": "Morning",
+  "arrival_time": "Afternoon",
+  "stops": "zero",
+  "class": "Business",
+  "duration": 3.0,
+  "days_left": 10,
+  "budget_inr": 40000
+}
