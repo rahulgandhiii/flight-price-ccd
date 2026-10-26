@@ -1,0 +1,12 @@
+{
+  "airline": "Vistara",
+  "source_city": "Kolkata",
+  "destination_city": "Bangalore",
+  "departure_time": "Morning",
+  "arrival_time": "Afternoon",
+  "stops": "one",
+  "class": "Business",
+  "duration": 6.0,
+  "days_left": 12,
+  "budget_inr": 30000
+}

@@ -1,0 +1,12 @@
+{
+  "airline": "Air_India",
+  "source_city": "Delhi",
+  "destination_city": "Hyderabad",
+  "departure_time": "Evening",
+  "arrival_time": "Night",
+  "stops": "zero",
+  "class": "Business",
+  "duration": 2.3,
+  "days_left": 25,
+  "budget_inr": 18000
+}

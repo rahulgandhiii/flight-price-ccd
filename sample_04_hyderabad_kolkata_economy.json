@@ -1,0 +1,12 @@
+{
+  "airline": "Indigo",
+  "source_city": "Hyderabad",
+  "destination_city": "Kolkata",
+  "departure_time": "Morning",
+  "arrival_time": "Afternoon",
+  "stops": "one",
+  "class": "Economy",
+  "duration": 5.5,
+  "days_left": 20,
+  "budget_inr": 10000
+}

@@ -1,0 +1,12 @@
+{
+  "airline": "Air_India",
+  "source_city": "Mumbai",
+  "destination_city": "Delhi",
+  "departure_time": "Early_Morning",
+  "arrival_time": "Morning",
+  "stops": "zero",
+  "class": "Economy",
+  "duration": 2.2,
+  "days_left": 30,
+  "budget_inr": 6000
+}

@@ -1,0 +1,12 @@
+{
+  "airline": "AirAsia",
+  "source_city": "Chennai",
+  "destination_city": "Delhi",
+  "departure_time": "Afternoon",
+  "arrival_time": "Evening",
+  "stops": "zero",
+  "class": "Economy",
+  "duration": 2.8,
+  "days_left": 40,
+  "budget_inr": 9000
+}

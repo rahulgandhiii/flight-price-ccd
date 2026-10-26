@@ -1,0 +1,12 @@
+{
+  "airline": "Indigo",
+  "source_city": "Delhi",
+  "destination_city": "Mumbai",
+  "departure_time": "Morning",
+  "arrival_time": "Afternoon",
+  "stops": "zero",
+  "class": "Economy",
+  "duration": 2.0,
+  "days_left": 15,
+  "budget_inr": 8000
+}

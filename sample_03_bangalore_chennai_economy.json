@@ -1,0 +1,12 @@
+{
+  "airline": "SpiceJet",
+  "source_city": "Bangalore",
+  "destination_city": "Chennai",
+  "departure_time": "Evening",
+  "arrival_time": "Night",
+  "stops": "zero",
+  "class": "Economy",
+  "duration": 1.2,
+  "days_left": 7,
+  "budget_inr": 3500
+}
