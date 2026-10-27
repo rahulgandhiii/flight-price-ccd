@@ -22,5 +22,5 @@ jobs:
             --request POST \
             --header 'Content-Type: application/json' \
             --header "X-Flight-Token: $FLIGHT_INGEST_TOKEN" \
-            --data-binary @sample_01_delhi_mumbai_economy.json \
+            --data-binary @sample_03_bangalore_chennai_economy.json \
             "$FLIGHT_INGEST_URL"
